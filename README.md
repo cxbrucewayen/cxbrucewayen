@@ -1,14 +1,18 @@
 ## Hey there! 👋 Welcome to my GitHub Profile!
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontSize=40&fontAlign=50&fontAlignY=40&desc=I'm%20cxbrucewayen!&descAlign=50&descAlignY=60)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontSize=40&fontAlign=50&fontAlignY=40&desc=I'm%20cxbrucewayen!&descAlign=50&descAlignY=60&theme=dark)
 
 ---
 
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently working on **cool projects and innovative solutions**.
-- 🌱 I’m constantly learning **new technologies, frameworks, and tools**.
-- 👯 I’m looking to collaborate on **open-source projects**.
+- 🔭 I'm currently working on **cool projects and innovative solutions**.
+- 🌱 I'm constantly learning **new technologies, frameworks, and tools**.
+- 👯 I'm looking to collaborate on **open-source projects**.
 - ⚡ Fun fact: I'm a passionate tech enthusiast and problem solver.
+
+</div>
 
 ---
 
@@ -16,24 +20,24 @@
 
 #### 📊 **GitHub Statistics**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cxbrucewayen&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxbrucewayen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cxbrucewayen&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxbrucewayen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 #### 🏅 **GitHub Trophies**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cxbrucewayen&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cxbrucewayen&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 #### 🔥 **Streak Stats**
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=cxbrucewayen&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=cxbrucewayen&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 ---
 
 ### 🚀 My Tech Stack:
-<div align="center">
+<div align="center" style="background-color: #161b22; padding: 20px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python" />
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="React" />
@@ -44,11 +48,15 @@
 
 ---
 
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+
 ### 📫 Connect with Me:
 - 💬 Feel free to **ask me anything** or share ideas for collaboration.
 - 📧 Reach me via email: **[bruce@bat.com](mailto:brucel@bat.com)**.
 - 🌐 Check out my portfolio: **[bruce.com](https://bruce.com)**.
 
+</div>
+
 ---
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=dark)
