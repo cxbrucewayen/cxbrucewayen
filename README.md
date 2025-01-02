@@ -46,8 +46,8 @@
 
 ### 📫 Connect with Me:
 - 💬 Feel free to **ask me anything** or share ideas for collaboration.
-- 📧 Reach me via email: **[your-email@example.com](mailto:your-email@example.com)**.
-- 🌐 Check out my portfolio: **[YourPortfolio.com](https://yourportfolio.com)**.
+- 📧 Reach me via email: **[bruce@bat.com](mailto:brucel@bat.com)**.
+- 🌐 Check out my portfolio: **[bruce.com](https://bruce.com)**.
 
 ---
 
